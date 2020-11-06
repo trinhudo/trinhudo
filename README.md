@@ -1,4 +1,4 @@
-Hi everyone, I would like to share with you simulations of my published papers. I hope these materials may help you in the initial stages of your research. I look forward to your feedback and discussions, and we together can improve more of our research. 
+Hi everyone, I would like to share with you simulation codes of my published papers. I hope these materials may help you in the initial stages of your research. I look forward to your feedback and discussions, and we together can improve more of our research and perform some *collaborative research*.
 
 In our research, we have been focusing on:
 - Cooperative relaying systems, such as Reconfigurable Intelligent Surface (RIS) or Intelligent Reflecting Surface (IRS) for 6G relaying systems
