@@ -1,7 +1,7 @@
 Hi everyone, I would like to share with you simulations of my published papers. I hope these materials may help you in the initial stages of your research. I look forward to your feedback and discussions, and we together can improve more of our research. 
 
 In our research, we have been focusing on:
-- Reconfigurable Intelligent Surface (RIS) or Intelligent Reflecting Surface (IRS) for 6G relaying systems
+- Cooperative relaying systems, such as Reconfigurable Intelligent Surface (RIS) or Intelligent Reflecting Surface (IRS) for 6G relaying systems
 - Non-terrestrial communications for 6G, such as satellite-to-air-to-ground (SAG) communications, air-to-ground (A2G) and ground-to-air (G2A) communications in unmanned aerial vehicles (UAV) networks
 - Multi-user multi-antenna wireless systems
 
