@@ -12,4 +12,4 @@ We use three main types of technical tools for our research, namely:
 
 ## Contact
 - *Website:*	<https://trinhudo.github.io>
-- *Email:*	<dotrinhu@gmail.com>
+- *Email:*	<trinhu.do@ieee.org>
