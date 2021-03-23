@@ -1,14 +1,14 @@
-Hi everyone, I would like to share with you simulation codes of my published papers. I hope these materials may help you in the initial stages of your research. I look forward to your feedback and discussions, and we together can improve more of our research and perform some *collaborative research*.
+Hello everyone, I would like to share with you the simulation codes of my published papers. I hope these materials may help you in the initial stages of your research. I look forward to your feedback and discussions, and we together can improve more of our research. 
 
-In our research, we have been focusing on:
-- Cooperative relaying systems, such as Reconfigurable Intelligent Surface (RIS) or Intelligent Reflecting Surface (IRS) for 6G relaying systems
-- Non-terrestrial communications for 6G, such as satellite-to-air-to-ground (SAG) communications, air-to-ground (A2G) and ground-to-air (G2A) communications in unmanned aerial vehicles (UAV) networks
+In our current research, we have been focusing on:
+- Reconfigurable intelligent surface (RIS)-aided wireless communications
 - Multi-user multi-antenna wireless systems
+- Rejactive jammer detection
 
-We use three main types of technical tools for our research, namely:
-- Performance analysis: to derive approximate closed-form expressions for the performance metrics under study.
-- Optimization: propose some iterative solution to find optimal system parameters of interest. 
-- Deep learning: performance prediction using regression and/or classification with DNN, RNN, and deep reinforcement learning (DRL). 
+Some main technical tools for our research are:
+- Statistical characterization and performance analysis
+- Deep learning: regression and/or classification using DNN, RNN
+- Deep reinforcement learning (DRL)-based solutions for optimization problems
 
 ## Contact
 - *Website:*	<https://trinhudo.github.io>
