@@ -4,9 +4,10 @@ Department of Electrical Engineering
 Polytechnique Montréal  
 Montreal, Quebec, Canada  
 _Email:_  tri-nhu.do@polymtl.ca  
-_Directory of Experts:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a> 
+_Poly:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a>  
+_Blog:_ [Poetry and Photography](https://tri-nhu-do.work/blog/)
 
-_For the latest updates, please visit_ **[Telecom Neural Detection (TND) Lab](https://tnd-lab.work/)**
+_For the latest academic updates, please visit_ **[TND Lab (Telecom Neural Detection Lab)](https://tnd-lab.work/)**
 
   
 ## Biography  
